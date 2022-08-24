@@ -1,0 +1,7 @@
+name: Singular-v12.0.6-513b5722.master
+env: release
+git_commit: 513b5722
+git_branch: master
+version_name: 12.0.6
+version_code:1
+build_date: Tue, 12 Jul 2022 15:09:15 +0300
